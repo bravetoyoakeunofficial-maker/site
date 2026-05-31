@@ -124,7 +124,7 @@ table {
 }
 
 .link-2025 {
-    color: yellow !important;
+    color: yellow; !important;
     text-decoration: none;
 }
 
