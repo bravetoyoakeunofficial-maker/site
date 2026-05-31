@@ -123,9 +123,8 @@ table {
     vertical-align: middle;
 }
 
-/* 2025年度リンクだけ白色にする */
 .link-2025 {
-    color: yellow;
+    color: white !important;
     text-decoration: none;
 }
 
